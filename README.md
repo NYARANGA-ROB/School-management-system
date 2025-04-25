@@ -39,7 +39,8 @@ php artisan skuul:init
  ```
 * Clone the repository by running the following command in your comamand line below (Or you can dowload zip file from github)
 ```shell
-git clone https://github.com/yungifez/skuul ./skuul
+git clone https://github.com/NYARANGA-ROB/School-management-system
+
  ```
 * Head to the project's directory
 ```shell
